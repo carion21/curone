@@ -1,0 +1,3 @@
+# curone
+
+Serveur permettant de générer un code QR à partir de ce qu'on lui passe en paramètre...
